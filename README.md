@@ -1,1 +1,1 @@
-# prophet-challenge
+Using Python's Pandas, matplotlib, numpy and datetime libraries, I analysed a dataset that represented the stock market for a company to address real-world business questions. I got myself familiar with the dataset by using pandas to analyze the different columns, and then I transformed and manipulated the data in order to find out more from this data set such as search trends over time in order to predict what the market would look like in the near future using prophet. 
